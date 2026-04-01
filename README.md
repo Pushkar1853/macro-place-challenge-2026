@@ -13,5 +13,5 @@ Pushkar Ambastha (GitHub: Pushkar1853)
 - Final legalization guarantees zero overlaps
 
 ## Files
-- `placer.py` — placer implementation
-- `weights.pt` — trained GNN+policy weights
+- `submissions/pushkarambastha/placer.py` — placer implementation
+- `submissions/pushkarambastha/weights.pt` — trained GNN+policy weights
