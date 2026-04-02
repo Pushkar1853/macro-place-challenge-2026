@@ -41,7 +41,7 @@ where macros are already roughly clustered by connectivity — SA can then
 focus entirely on wirelength optimization.
 
 ## Files
-- `placer.py` — complete placer implementation (no weights needed)
+- `submissions/pushkarambastha/placer.py` — complete placer implementation (no weights needed)
 
 ## No Training Required
 This is a purely algorithmic approach. There are no neural network weights
